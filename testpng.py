@@ -2,7 +2,7 @@
 
 import os.path
 
-if os.path.exists('A10.png'):
+if os.path.exists('A11.png'):
 	print ('True')
 else:
 	print ('False')
